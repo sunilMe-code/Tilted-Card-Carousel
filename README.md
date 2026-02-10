@@ -21,10 +21,10 @@ This project is ideal for beginners who want to understand how sliders and carou
 - JavaScript (ES6) – Slider logic
 
 🚀 Live Demo
-🔗 https://yourwebsite.com/Tilted-Card-Carousel
+🔗 https://sunilme-code.github.io/Tilted-Card-Carousel/
 
 📂 Source Code
-🔗 https://github.com/codevilde/Tilted-Card-Carousel
+🔗 https://github.com/sunilMe-code/Tilted-Card-Carousel
 
 🧠 What You’ll Learn
 - DOM manipulation in JavaScript
